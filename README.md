@@ -4,7 +4,7 @@ Custom made discord multitool only using python 3.9
 # How to use
 1. Dowload the code as a .zip file
 2. Unpack it with winrar or a other unzipping software
-3. Run the .bat file or install or install all the required libraries yourself
+3. Run the .bat file to install all the libraries automatically or install all the required libraries yourself
 4. Run the BitTool.py file
 
 # Requirements
