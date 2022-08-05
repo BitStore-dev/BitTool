@@ -7,7 +7,7 @@ Custom made discord multitool only using python 3.9
 3. Run the .bat file to install all the libraries automatically or install all the required libraries yourself
 4. Run the BitTool.py file
 
-# Progress
+# Achievements
 - Complete Recode
 - 20 Stars - Free Hchapta Solver
 - 50 Stars - Improve Token Gen
